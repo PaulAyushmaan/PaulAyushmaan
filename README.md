@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaulAyushmaan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning FrontEnd Development
-- C & Python Language
+- 🌱 I’m currently Pursing BTech in Computer Science
+- C ,Python, HTML,CSS,JS 
 - 📫 How to reach me- Email me on ayushmaanpaul2004@gmail.com
 
 <!---
