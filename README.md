@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushmaan Paul</h1>
-<h3 align="center">A passionate Web Enthusiast Who is Pursuing a Career in B.Tech Computer Science & Engineering.</h3>
+<h3 align="center">A passionate Web Enthusiast Pursuing His Career in B.Tech Computer Science & Engineering.</h3>
 <img align="right" alt="Coding"  width="250" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47zkmxs6qui4octv6c99g4ve2ky0ziqlzv313tr6gb&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulayushmaan&label=Profile%20views&color=0e75b6&style=flat" alt="paulayushmaan" /> </p>
 
