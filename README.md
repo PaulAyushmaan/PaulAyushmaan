@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayushmaanpaul2004@gmail.com**
 
-- Check out my resume [https://drive.google.com/file/d/1n2HFwQB8mYvuxP9xntJX1D6jhEXORdvg/view?usp=sharing](https://drive.google.com/file/d/1n2HFwQB8mYvuxP9xntJX1D6jhEXORdvg/view?usp=sharing)
+- Check out my resume [https://drive.google.com/file/d/1n2HFwQB8mYvuxP9xntJX1D6jhEXORdvg/view?usp=sharing](https://drive.google.com/file/d/1JjCUzNY7N3GyTPLTPDAw_v6FqUOrjQ_M/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
